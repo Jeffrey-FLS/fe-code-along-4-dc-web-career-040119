@@ -97,7 +97,7 @@ figcaption {
 
 .clearfix:after {
   content: ".";
-  display: both;
+  display: block;
   clear: both;
 }
 
